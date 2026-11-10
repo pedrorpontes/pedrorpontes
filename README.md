@@ -1,4 +1,4 @@
-## Olá! Eu sou o Pedro Pontes 👋
+## Olá! Eu sou Pedro 👋
 
 Sou desenvolvedor em formação, em transição para a área de tecnologia. Hoje meu foco é o **back-end com Java e Spring Boot**, e também estudo **TypeScript** para o front-end. Uso este perfil para registrar o que aprendo em cursos e bootcamps e os projetos que desenvolvo.
 
